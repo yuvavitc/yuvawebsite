@@ -1,0 +1,4 @@
+/* AOS custom override for AboutUs page */
+[data-aos][data-aos][data-aos-delay="200"].aos-animate {
+  transition-delay: 0.2s;
+}

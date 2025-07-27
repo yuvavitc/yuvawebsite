@@ -1,0 +1,22 @@
+/* If you see 'Unknown at rule @tailwind', make sure Tailwind CSS is set up with PostCSS or a compatible build tool. */
+/* Custom palette for YUVA */
+/* @import "tailwindcss"; */
+@tailwind utilities;
+:root {
+  --tango: #ef7114;
+  --woodsmoke: #040505;
+  --matisse: #185898;
+  --apple: #4a972f;
+}
+/* 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Custom CSS variables if needed */
+/* :root {
+  --tango: #ef7114;
+  --woodsmoke: #040505;
+  --matisse: #185898;
+  --apple: #4a972f;
+} */ 
